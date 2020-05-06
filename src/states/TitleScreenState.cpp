@@ -39,6 +39,13 @@ GameStateType TitleScreenState::update(GameStateType currentState, GameCookie *c
 
 	}
 
+	if (PC::buttons.pressed(BTN_B)) {
+	    
+	    cookie->setLastMoves(9999);
+        currentState = GameStateType::HighScore_Activate; 
+
+	}
+
     return currentState;
 
 }
@@ -53,7 +60,7 @@ void TitleScreenState::render(GameCookie *cookie) {
     PD::clear();
     PD::setColor(6);
 
-    PD::drawBitmap(0, -2, Images:: LightsOut_TitleScreen_Preview);
+    PD::drawBitmap(0, -2, Images::Title_Background_Full);
     PD::drawBitmap(69, 166, Images::LevelTexts[cookie->level]);
 
     if (cookie->level == 0) {

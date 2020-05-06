@@ -15,7 +15,7 @@ namespace Images {
 
     #include "title/Title_Background.h"
     #include "title/Title_Beam.h"
-    #include "title/LightsOut_TitleScreen_Preview.h"
+    #include "title/Title_Background_Full.h"
 
     #include "background/Background.h"
     #include "background/Menu.h"
@@ -38,6 +38,8 @@ namespace Images {
     #include "ppot/Ppot_Full.h"
     #include "ppot/Ppot_Arrow.h"
 
+    #include "highscore/Top5Scores.h"
+    #include "highscore/LightsOut.h"
     #include "highscore/Char_Underscore.h"
     #include "highscore/Char_A.h"
     #include "highscore/Char_B.h"

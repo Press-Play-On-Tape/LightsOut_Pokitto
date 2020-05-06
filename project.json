@@ -1048,6 +1048,684 @@
 		},
 		"\\LightsOut.zip": {
 			"sdcard": false
+		},
+		"/LightsOut.zip": {
+			"sdcard": false
+		},
+		"/LICENSE": {
+			"sdcard": false
+		},
+		"/LightsOut_Pokitto.bin": {
+			"sdcard": false
+		},
+		"/LightsOut_Pokitto.eeprom": {
+			"sdcard": false
+		},
+		"/WalkThrough.gif": {
+			"sdcard": false
+		},
+		"/music": {
+			"sdcard": false
+		},
+		"/LightsOut_Pokitto.elf": {
+			"sdcard": false
+		},
+		"/src": {
+			"sdcard": false
+		},
+		"/music/lights1.raw": {
+			"sdcard": true
+		},
+		"/music/lights3.raw": {
+			"sdcard": false
+		},
+		"/music/lights2.raw": {
+			"sdcard": true
+		},
+		"/src/Game.cpp": {
+			"sdcard": false
+		},
+		"/src/images": {
+			"sdcard": false
+		},
+		"/src/Game.h": {
+			"sdcard": false
+		},
+		"/src/states": {
+			"sdcard": false
+		},
+		"/src/sounds": {
+			"sdcard": false
+		},
+		"/src/utils": {
+			"sdcard": false
+		},
+		"/src/images/Arrow_Down_Dark.h": {
+			"sdcard": false
+		},
+		"/src/images/Arrow_Down.h": {
+			"sdcard": false
+		},
+		"/src/images/Arrow_Down.png": {
+			"sdcard": false
+		},
+		"/src/images/Arrow_Down_Dark.png": {
+			"sdcard": false
+		},
+		"/src/images/Arrow_Up.h": {
+			"sdcard": false
+		},
+		"/src/images/Arrow_Up.png": {
+			"sdcard": false
+		},
+		"/src/images/Arrow_Up_Dark.h": {
+			"sdcard": false
+		},
+		"/src/images/Hand.h": {
+			"sdcard": false
+		},
+		"/src/images/Arrow_Up_Dark.png": {
+			"sdcard": false
+		},
+		"/src/images/Hand_Horiz.h": {
+			"sdcard": false
+		},
+		"/src/images/Hand_Horiz.png": {
+			"sdcard": false
+		},
+		"/src/images/Hand_Vert.png": {
+			"sdcard": false
+		},
+		"/src/images/Images.h": {
+			"sdcard": false
+		},
+		"/src/images/LevelText_00.png": {
+			"sdcard": false
+		},
+		"/src/images/Hand_Vert.h": {
+			"sdcard": false
+		},
+		"/src/images/LevelText_01.h": {
+			"sdcard": false
+		},
+		"/src/images/LevelText_00.h": {
+			"sdcard": false
+		},
+		"/src/images/LevelText_01.png": {
+			"sdcard": false
+		},
+		"/src/images/LevelText_02.png": {
+			"sdcard": false
+		},
+		"/src/images/LevelText_02.h": {
+			"sdcard": false
+		},
+		"/src/images/background": {
+			"sdcard": false
+		},
+		"/src/images/highscore": {
+			"sdcard": false
+		},
+		"/src/images/ppot": {
+			"sdcard": false
+		},
+		"/src/images/tiles": {
+			"sdcard": false
+		},
+		"/src/images/title": {
+			"sdcard": false
+		},
+		"/src/states/HighScoreState.cpp": {
+			"sdcard": false
+		},
+		"/src/states/HighScoreState.h": {
+			"sdcard": false
+		},
+		"/src/states/SplashScreenState.cpp": {
+			"sdcard": false
+		},
+		"/src/states/SplashScreenState.h": {
+			"sdcard": false
+		},
+		"/src/states/PlayGameState.h": {
+			"sdcard": false
+		},
+		"/src/states/PlayGameState.cpp": {
+			"sdcard": false
+		},
+		"/src/states/States.h": {
+			"sdcard": false
+		},
+		"/src/states/TitleScreenState.cpp": {
+			"sdcard": false
+		},
+		"/src/states/TitleScreenState.h": {
+			"sdcard": false
+		},
+		"/src/sounds/End.h": {
+			"sdcard": false
+		},
+		"/src/sounds/15 Prologue.mp3": {
+			"sdcard": false
+		},
+		"/src/sounds/Intro.h": {
+			"sdcard": false
+		},
+		"/src/sounds/Intro.wav": {
+			"sdcard": false
+		},
+		"/src/sounds/Sounds.h": {
+			"sdcard": false
+		},
+		"/src/sounds/Switch.h": {
+			"sdcard": false
+		},
+		"/src/utils/Constants.h": {
+			"sdcard": false
+		},
+		"/src/utils/Enums.h": {
+			"sdcard": false
+		},
+		"/src/utils/Structs.h": {
+			"sdcard": false
+		},
+		"/src/utils/GameCookie.h": {
+			"sdcard": false
+		},
+		"/src/utils/Utils.h": {
+			"sdcard": false
+		},
+		"/src/images/background/Background.h": {
+			"sdcard": false
+		},
+		"/src/images/background/Congratulations.h": {
+			"sdcard": false
+		},
+		"/src/images/background/Congratulations.png": {
+			"sdcard": false
+		},
+		"/src/images/background/Background.png": {
+			"sdcard": false
+		},
+		"/src/images/background/Menu.png": {
+			"sdcard": false
+		},
+		"/src/images/background/Menu.h": {
+			"sdcard": false
+		},
+		"/src/images/background/Menu_00.png": {
+			"sdcard": false
+		},
+		"/src/images/background/Menu_00.h": {
+			"sdcard": false
+		},
+		"/src/images/background/Menu_01.png": {
+			"sdcard": false
+		},
+		"/src/images/background/Menu_01.h": {
+			"sdcard": false
+		},
+		"/src/images/background/Menu_02.h": {
+			"sdcard": false
+		},
+		"/src/images/background/Menu_02.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_0.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_1.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_0.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_2.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_2.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_1.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_3.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_3.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_4.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_4.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_5.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_5.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_6.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_6.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_7.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_7.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_8.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_8.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_9.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_9.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_A.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_A.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_B.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_B.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_C.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_C.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_D.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_D.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_Dot.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_Dot.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_E.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_E.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_Ex.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_Ex.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_F.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_F.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_G.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_H.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_G.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_H.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_I.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_I.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_J.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_J.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_K.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_K.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_L.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_M.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_M.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_L.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_N.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_N.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_O.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_O.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_P.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_P.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_Q.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_R.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_R.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_S.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_S.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_Space.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_Q.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_Space.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_T.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_T.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_U.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_Underscore.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_U.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_Underscore.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_V.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_W.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_W.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_X.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_V.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_X.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_Y.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_Y.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_Z.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Char_Z.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/HS_Highlight.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/HS_Highlight.png": {
+			"sdcard": false
+		},
+		"/src/images/ppot/Ppot_00.h": {
+			"sdcard": false
+		},
+		"/src/images/ppot/Ppot_00.png": {
+			"sdcard": false
+		},
+		"/src/images/ppot/Ppot_01.h": {
+			"sdcard": false
+		},
+		"/src/images/ppot/Ppot_01.png": {
+			"sdcard": false
+		},
+		"/src/images/ppot/Ppot_02.h": {
+			"sdcard": false
+		},
+		"/src/images/ppot/Ppot_02.png": {
+			"sdcard": false
+		},
+		"/src/images/ppot/Ppot_03.h": {
+			"sdcard": false
+		},
+		"/src/images/ppot/Ppot_Arrow.h": {
+			"sdcard": false
+		},
+		"/src/images/ppot/Ppot_03.png": {
+			"sdcard": false
+		},
+		"/src/images/ppot/Ppot_Arrow.png": {
+			"sdcard": false
+		},
+		"/src/images/ppot/Ppot_Full.h": {
+			"sdcard": false
+		},
+		"/src/images/ppot/Ppot_Full.png": {
+			"sdcard": false
+		},
+		"/src/images/tiles/TileDown0.h": {
+			"sdcard": false
+		},
+		"/src/images/tiles/TileDown0.png": {
+			"sdcard": false
+		},
+		"/src/images/tiles/TileDown1.h": {
+			"sdcard": false
+		},
+		"/src/images/tiles/TileDown2.h": {
+			"sdcard": false
+		},
+		"/src/images/tiles/TileDown1.png": {
+			"sdcard": false
+		},
+		"/src/images/tiles/TileDown2.png": {
+			"sdcard": false
+		},
+		"/src/images/tiles/TileUp0.h": {
+			"sdcard": false
+		},
+		"/src/images/tiles/TileUp0.png": {
+			"sdcard": false
+		},
+		"/src/images/tiles/TileUp1.h": {
+			"sdcard": false
+		},
+		"/src/images/tiles/TileUp1.png": {
+			"sdcard": false
+		},
+		"/src/images/tiles/TileUp2.h": {
+			"sdcard": false
+		},
+		"/src/images/tiles/TileUp2.png": {
+			"sdcard": false
+		},
+		"/src/images/title/Title_Background.h": {
+			"sdcard": false
+		},
+		"/src/images/title/LightsOut_TitleScreen_Preview.png": {
+			"sdcard": false
+		},
+		"/src/images/title/Title_Beam.h": {
+			"sdcard": false
+		},
+		"/src/images/title/LightsOut_TitleScreen_Preview.h": {
+			"sdcard": false
+		},
+		"/src/images/title/Title_Background.png": {
+			"sdcard": false
+		},
+		"/src/images/title/Title_Beam.png": {
+			"sdcard": false
+		},
+		"/Archive.zip": {
+			"sdcard": false
+		},
+		"/src/sounds/13 Digital Native.mp3": {
+			"sdcard": false
+		},
+		"/src/sounds/NoOverwritePromptsj0nSR": {
+			"sdcard": false
+		},
+		"/src/sounds/13 Digital Native.raw": {
+			"sdcard": false
+		},
+		"/13 Digital Native.raw": {
+			"sdcard": false
+		},
+		"/music/13 Digital Native.raw": {
+			"sdcard": false
+		},
+		"/music/lights4.raw": {
+			"sdcard": false
+		},
+		"/LightsOut_Pokitto.bin.1.png": {
+			"sdcard": false
+		},
+		"/Blank.png": {
+			"sdcard": false
+		},
+		"/src/images/title/Blank.png": {
+			"sdcard": false
+		},
+		"/src/images/title/Blank.h": {
+			"sdcard": false
+		},
+		"/src/images/title/Title_Background_Full.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/LightsOut_HighscoreScreen_Mockup2.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/LightsOut_HighscoreScreen_Mockup2 copy.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Top5Scores.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Top5Scores.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/LightsOut_HighscoreScreen_Mockup2.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/LightsOut.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/LightsOut.h": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Top5Scores copy.png": {
+			"sdcard": false
+		},
+		"/src/images/highscore/Top5Scores copy.h": {
+			"sdcard": false
+		},
+		"/Banner and Icons for POP": {
+			"sdcard": false
+		},
+		"/Banner and Icons for POP/LodeRunner_Banner.h": {
+			"sdcard": false
+		},
+		"/Banner and Icons for POP/LodeRunner_Banner.png": {
+			"sdcard": false
+		},
+		"/Banner and Icons for POP/LightsOut_POPBanner.png": {
+			"sdcard": false
+		},
+		"/Banner and Icons for POP/LightsOut_36x36.png": {
+			"sdcard": false
+		},
+		"/Banner and Icons for POP/LightsOut_24x24.PNG": {
+			"sdcard": false
+		},
+		"/Banner and Icons for POP/LightsOut_POPBanner.h": {
+			"sdcard": false
+		},
+		"/Banner and Icons for POP/LightsOut_36x36.h": {
+			"sdcard": false
+		},
+		"/Banner and Icons for POP/LightsOut_24x24.h": {
+			"sdcard": false
+		},
+		"/LightsOut_Pokitto.bin.1.h": {
+			"sdcard": false
+		},
+		"/Banner and Icons for POP/LightsOut_Pokitto.bin": {
+			"sdcard": false
+		},
+		"/Banner and Icons for POP/LightsOut.bin": {
+			"sdcard": false
+		},
+		"/Banner and Icons for POP/https-:.inetloc": {
+			"sdcard": false
+		},
+		"/LightsOut_Pokitto.bin.2.png": {
+			"sdcard": false
+		},
+		"/LightsOut_Pokitto.bin.3.png": {
+			"sdcard": false
+		},
+		"/LightsOut_Pokitto.bin.4.png": {
+			"sdcard": false
+		},
+		"/Banner and Icons for POP/LightsOut.pop": {
+			"sdcard": false
+		},
+		"/Banner and Icons for POP/Archive.zip": {
+			"sdcard": false
+		},
+		"/Banner and Icons for POP/LightsOut.zip": {
+			"sdcard": false
 		}
 	},
 	"ideVersion": 10000,
