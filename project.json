@@ -1042,6 +1042,12 @@
 		},
 		"\\WalkThrough.gif": {
 			"sdcard": false
+		},
+		"\\LICENSE": {
+			"sdcard": false
+		},
+		"\\LightsOut.zip": {
+			"sdcard": false
 		}
 	},
 	"ideVersion": 10000,
